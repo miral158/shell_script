@@ -1,0 +1,115 @@
+Nov 18 09:39:08 AHMCPU728 grafana-server[3082]: t=2019-11-18T09:39:08+0530 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/Wsusadmin/Errors/BrowserSettings.aspx status=404 remote_addr=192.168.6.144 time_ms=1 size=23017 referer=
+Nov 18 09:39:13 AHMCPU728 grafana-server[3082]: t=2019-11-18T09:39:13+0530 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/nessus-check/tomcat_error_version.nasl status=404 remote_addr=192.168.6.144 time_ms=1 size=23017 referer=
+Nov 18 09:39:51 AHMCPU728 grafana-server[3082]: t=2019-11-18T09:39:51+0530 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/error_page.htm status=404 remote_addr=192.168.6.144 time_ms=2 size=23017 referer=
+Nov 18 09:43:49 AHMCPU728 systemd-resolved[872]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Nov 18 09:43:49 AHMCPU728 systemd-resolved[872]: message repeated 5 times: [ Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.]
+Nov 18 09:44:24 AHMCPU728 org.gnome.Shell.desktop[4359]: ###!!! [Child][MessageChannel] Error: (msgtype=0x640027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+Nov 18 09:44:25 AHMCPU728 org.gnome.Shell.desktop[4359]: [Child 7242, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Nov 18 09:44:29 AHMCPU728 systemd-resolved[872]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Nov 18 09:44:29 AHMCPU728 systemd-resolved[872]: message repeated 5 times: [ Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.]
+Nov 18 09:46:05 AHMCPU728 systemd-resolved[872]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Nov 18 09:46:06 AHMCPU728 systemd-resolved[872]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Nov 18 09:48:22 AHMCPU728 systemd-resolved[872]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Nov 18 09:48:25 AHMCPU728 systemd-resolved[872]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Nov 18 10:03:25 AHMCPU728 systemd-resolved[872]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Nov 18 10:03:25 AHMCPU728 systemd-resolved[872]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Nov 18 10:18:23 AHMCPU728 systemd-resolved[872]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Nov 18 10:18:23 AHMCPU728 systemd-resolved[872]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Nov 18 10:21:26 AHMCPU728 org.gnome.Shell.desktop[4359]: ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Nov 18 10:23:39 AHMCPU728 systemd-resolved[872]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Nov 18 10:23:39 AHMCPU728 systemd-resolved[872]: message repeated 5 times: [ Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.]
+Nov 18 10:24:49 AHMCPU728 org.gnome.Shell.desktop[4359]: [Child 10400, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+Nov 18 10:24:49 AHMCPU728 org.gnome.Shell.desktop[4359]: message repeated 3 times: [ [Child 10400, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728]
+Nov 18 10:24:49 AHMCPU728 org.gnome.Shell.desktop[4359]: [Parent 4898, Gecko_IOThread] WARNING: pipe error (189): Connection reset by peer: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Nov 18 10:25:01 AHMCPU728 systemd-resolved[872]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Nov 18 10:25:01 AHMCPU728 systemd-resolved[872]: message repeated 5 times: [ Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.]
+Nov 18 10:25:42 AHMCPU728 systemd-resolved[872]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Nov 18 10:25:51 AHMCPU728 systemd-resolved[872]: message repeated 11 times: [ Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.]
+Nov 18 10:26:11 AHMCPU728 systemd-resolved[872]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Nov 18 10:26:21 AHMCPU728 systemd-resolved[872]: message repeated 11 times: [ Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.]
+Nov 18 10:29:51 AHMCPU728 systemd-resolved[872]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Nov 18 10:29:51 AHMCPU728 systemd-resolved[872]: message repeated 5 times: [ Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.]
+Nov 18 10:31:00 AHMCPU728 org.gnome.Shell.desktop[4359]: ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Nov 18 10:31:00 AHMCPU728 org.gnome.Shell.desktop[4359]: [Child 11612, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Nov 18 10:31:04 AHMCPU728 org.gnome.Shell.desktop[4359]: ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Nov 18 10:31:04 AHMCPU728 org.gnome.Shell.desktop[4359]: [Parent 4898, Gecko_IOThread] WARNING: pipe error (229): Connection reset by peer: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Nov 18 10:33:31 AHMCPU728 systemd-resolved[872]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Nov 18 10:33:41 AHMCPU728 systemd-resolved[872]: message repeated 7 times: [ Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.]
+Nov 18 10:35:21 AHMCPU728 systemd-resolved[872]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Nov 18 10:35:21 AHMCPU728 systemd-resolved[872]: message repeated 5 times: [ Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.]
+Nov 18 10:36:21 AHMCPU728 systemd-resolved[872]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Nov 18 10:36:21 AHMCPU728 systemd-resolved[872]: message repeated 5 times: [ Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.]
+Nov 18 10:42:12 AHMCPU728 systemd-resolved[872]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Nov 18 10:42:12 AHMCPU728 systemd-resolved[872]: message repeated 5 times: [ Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.]
+Nov 18 10:45:43 AHMCPU728 org.gnome.Shell.desktop[4359]: [13340:13340:1118/104543.168403:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Nov 18 10:45:49 AHMCPU728 systemd-resolved[872]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Nov 18 10:45:49 AHMCPU728 systemd-resolved[872]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Nov 18 10:45:54 AHMCPU728 org.gnome.Shell.desktop[4359]: [13340:13340:1118/104554.005517:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Nov 18 10:45:55 AHMCPU728 systemd-resolved[872]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Nov 18 10:45:55 AHMCPU728 systemd-resolved[872]: message repeated 5 times: [ Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.]
+Nov 18 10:45:59 AHMCPU728 org.gnome.Shell.desktop[4359]: [13300:13322:1118/104559.088022:ERROR:shared_change_processor.cc(196)] Passwords datatype error was encountered: Change processor disconnected.
+Nov 18 10:48:25 AHMCPU728 systemd-resolved[872]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Nov 18 10:48:25 AHMCPU728 systemd-resolved[872]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Nov 18 10:57:36 AHMCPU728 systemd-resolved[872]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Nov 18 10:57:36 AHMCPU728 systemd-resolved[872]: message repeated 5 times: [ Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.]
+Nov 18 11:03:26 AHMCPU728 systemd-resolved[872]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Nov 18 11:03:26 AHMCPU728 systemd-resolved[872]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Nov 18 11:04:56 AHMCPU728 systemd-resolved[872]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Nov 18 11:04:56 AHMCPU728 systemd-resolved[872]: message repeated 5 times: [ Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.]
+Nov 18 11:18:26 AHMCPU728 systemd-resolved[872]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Nov 18 11:18:26 AHMCPU728 systemd-resolved[872]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Nov 18 11:25:28 AHMCPU728 systemd-resolved[872]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Nov 18 11:25:28 AHMCPU728 systemd-resolved[872]: message repeated 5 times: [ Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.]
+Nov 18 11:31:07 AHMCPU728 nagios: wproc:   early_timeout=0; exited_ok=1; wait_status=32512; error_code=0;
+Nov 18 11:31:07 AHMCPU728 nagios: wproc:   stderr line 02: /usr/bin/printf: write error: Broken pipe
+Nov 18 11:33:28 AHMCPU728 systemd-resolved[872]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Nov 18 11:33:28 AHMCPU728 systemd-resolved[872]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Nov 18 11:39:58 AHMCPU728 systemd-resolved[872]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Nov 18 11:39:58 AHMCPU728 systemd-resolved[872]: message repeated 5 times: [ Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.]
+Nov 18 11:40:08 AHMCPU728 systemd-resolved[872]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Nov 18 11:40:08 AHMCPU728 systemd-resolved[872]: message repeated 5 times: [ Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.]
+Nov 18 11:42:38 AHMCPU728 systemd-resolved[872]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Nov 18 11:42:38 AHMCPU728 systemd-resolved[872]: message repeated 5 times: [ Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.]
+Nov 18 11:42:59 AHMCPU728 systemd-resolved[872]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Nov 18 11:42:59 AHMCPU728 systemd-resolved[872]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Nov 18 11:48:35 AHMCPU728 systemd-resolved[872]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Nov 18 11:48:35 AHMCPU728 systemd-resolved[872]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Nov 18 11:52:12 AHMCPU728 systemd-resolved[872]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Nov 18 11:52:12 AHMCPU728 systemd-resolved[872]: message repeated 5 times: [ Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.]
+Nov 18 11:56:30 AHMCPU728 systemd-resolved[872]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Nov 18 11:56:30 AHMCPU728 systemd-resolved[872]: message repeated 5 times: [ Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.]
+Nov 18 11:57:12 AHMCPU728 systemd-resolved[872]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Nov 18 11:57:12 AHMCPU728 systemd-resolved[872]: message repeated 5 times: [ Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.]
+Nov 18 11:57:39 AHMCPU728 org.gnome.Shell.desktop[4359]: ###!!! [Child][MessageChannel] Error: (msgtype=0x640027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+Nov 18 11:57:39 AHMCPU728 org.gnome.Shell.desktop[4359]: [Child 19241, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Nov 18 11:57:39 AHMCPU728 org.gnome.Shell.desktop[4359]: ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Nov 18 11:57:53 AHMCPU728 systemd-resolved[872]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Nov 18 11:57:53 AHMCPU728 systemd-resolved[872]: message repeated 5 times: [ Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.]
+Nov 18 11:58:03 AHMCPU728 systemd-resolved[872]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Nov 18 11:58:03 AHMCPU728 systemd-resolved[872]: message repeated 5 times: [ Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.]
+Nov 18 12:03:34 AHMCPU728 systemd-resolved[872]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Nov 18 12:03:34 AHMCPU728 systemd-resolved[872]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Nov 18 12:10:48 AHMCPU728 systemd-resolved[872]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Nov 18 12:10:48 AHMCPU728 systemd-resolved[872]: message repeated 5 times: [ Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.]
+Nov 18 12:17:10 AHMCPU728 systemd-resolved[872]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Nov 18 12:17:10 AHMCPU728 systemd-resolved[872]: message repeated 5 times: [ Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.]
+Nov 18 12:18:33 AHMCPU728 systemd-resolved[872]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Nov 18 12:19:56 AHMCPU728 systemd-resolved[872]: message repeated 19 times: [ Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.]
+Nov 18 12:20:47 AHMCPU728 systemd-resolved[872]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Nov 18 12:20:47 AHMCPU728 systemd-resolved[872]: message repeated 5 times: [ Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.]
+Nov 18 12:23:02 AHMCPU728 systemd-resolved[872]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Nov 18 12:23:02 AHMCPU728 systemd-resolved[872]: message repeated 5 times: [ Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.]
+Nov 18 12:25:16 AHMCPU728 systemd-resolved[872]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Nov 18 12:25:16 AHMCPU728 systemd-resolved[872]: message repeated 5 times: [ Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.]
+Nov 18 12:28:53 AHMCPU728 systemd-resolved[872]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Nov 18 12:29:03 AHMCPU728 systemd-resolved[872]: message repeated 11 times: [ Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.]
+Nov 18 12:32:00 AHMCPU728 org.gnome.Shell.desktop[4359]: ###!!! [Child][MessageChannel] Error: (msgtype=0x37011E,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+Nov 18 12:33:32 AHMCPU728 systemd-resolved[872]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Nov 18 12:33:32 AHMCPU728 systemd-resolved[872]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Nov 18 12:37:19 AHMCPU728 systemd-resolved[872]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Nov 18 12:37:19 AHMCPU728 systemd-resolved[872]: message repeated 5 times: [ Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.]
+Nov 18 12:40:05 AHMCPU728 systemd-resolved[872]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Nov 18 12:40:05 AHMCPU728 systemd-resolved[872]: message repeated 5 times: [ Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.]
+Nov 18 12:48:01 AHMCPU728 systemd-resolved[872]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Nov 18 12:48:01 AHMCPU728 systemd-resolved[872]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Nov 18 12:48:41 AHMCPU728 systemd-resolved[872]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
